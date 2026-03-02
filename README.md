@@ -44,6 +44,13 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia e 
 
 ---
 
+## 🔐 Segurança e Boas Práticas
+Durante o desenvolvimento, foi considerada a integração com API externa.
+No entanto, optei por não expor chaves de API no front-end, seguindo boas práticas de segurança.
+Implementações com API serão realizadas futuramente utilizando backend para proteção de variáveis sensíveis.
+
+---
+
 ## 📂 Estrutura do Projeto
 ```
 📁 portfolio
@@ -55,8 +62,9 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia e 
 
 ## 🌐 Deploy
 
-O projeto poderá ser acessado online após ativação do GitHub Pages.
+O projeto está disponível online via GitHub Pages:
 
+🔗 https://otaviosouzadev.github.io/otavio-souza-portfolio/
 ---
 
 ## 📫 Contato

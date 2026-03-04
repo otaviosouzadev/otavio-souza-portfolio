@@ -64,7 +64,7 @@ Implementações com API serão realizadas futuramente utilizando backend para p
 
 O projeto está disponível online via GitHub Pages:
 
-🔗 https://otaviosouzadev.github.io/otavio-souza-portfolio/
+🔗 https://otaviosouzadev.github.io/GERADOR-DE-IA-CSS-/
 ---
 
 ## 📫 Contato
